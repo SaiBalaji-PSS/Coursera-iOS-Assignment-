@@ -12,3 +12,7 @@ Adaptive UI design to different screen size
 
 
 ![Screenshot 2020-05-14 at 5 41 00 PM](https://user-images.githubusercontent.com/51410810/81933125-7d0c0300-960a-11ea-8f60-23d8ef895023.png)
+
+
+
+![Screenshot 2020-05-14 at 5 51 09 PM](https://user-images.githubusercontent.com/51410810/81933800-91043480-960b-11ea-94fd-513dbee70afa.png)
