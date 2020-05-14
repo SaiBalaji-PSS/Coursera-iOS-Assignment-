@@ -4,7 +4,7 @@ Unit convertor app made as an assignment for Coursera iOS development course
 
 Built using MVC(Model View Controller) architecture 
 Fully custom made UI controls 
-Adaptive UI design to different screen size
+Adaptive UI design for different screen size
 
 
 
